@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am UI/UX designer works with Java Script, TypeScript, HTML, CSS, BOOTSTRAP, Figma, Canva<br>I make UI design to Comfortable manner to user. <br>I happy to create simple and beautiful interface designs<br>I like to create implement code for design, I can improve the design from elegent and efficient coding<br>
+I am UI/UX designer works with Java Script, TypeScript, HTML, CSS, BOOTSTRAP, Figma, Canva<br>I improve UI design to Comfortable manner to user. <br>I like to create implement code for design and simple and beautiful interface, I can improve the design from elegent and efficient coding<br>
 
 
 # 💻 Tech Stack:
